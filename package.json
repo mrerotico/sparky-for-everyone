@@ -1,0 +1,28 @@
+{
+  "name": "planitum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anime-actions": "^1.0.6",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.3.4",
+    "discord.js": "^14.8.0",
+    "glob": "^8.1.0",
+    "iso-639-1": "^2.1.15",
+    "mathjs": "^11.5.1",
+    "megadb": "^3.4.0",
+    "mongoose": "^7.0.1",
+    "ms": "^2.1.3",
+    "translate-google": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
